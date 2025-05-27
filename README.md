@@ -7,14 +7,15 @@
    Scikit Learn to build an accurate and scalable prediction system.
 
 3. The model was designed using following:-
+   Framework:- Jupyter Notebook
    Python libraries
    • Numpy - Python library primarily used for numerical computing, particularly for scientific and data analysis tasks
    • Pandas - Python library used for data manipulation and analysis
    • Matplotlib - Python library used for creating static, animated, and interactive visualizations
    • Scikit learn - Python library used for performing various ML tasks such as classification, regression etc.
 
-4. Data Source:- Heart-disease.csv imported from Kaggle
+5. Data Source:- Heart-disease.csv imported from Kaggle
 
-5. Screenshot:- https://github.com/Almaas16/Heart-Disease-Model-/blob/main/Heart%20Disease%20Model.ipynb
+6. Screenshot:- https://github.com/Almaas16/Heart-Disease-Model-/blob/main/Heart%20Disease%20Model.ipynb
 https://github.com/Almaas16/Heart-Disease-Model-/blob/main/heart-disease-analysis-plot-saved-with-code.png
 
